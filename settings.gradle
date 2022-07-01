@@ -1,0 +1,3 @@
+include ':TelinkBleMeshLib'
+include ':app'
+rootProject.name = "BleDemo"
